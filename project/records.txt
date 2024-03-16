@@ -1,0 +1,14 @@
+10590
+food,apple,-100
+drink,juice,-40
+bus,blueone,-20
+income,job,1000
+bonus,special,2000
+salary,job,5000
+railway,toschool,-30
+snack,711,-60
+food,sandwich,-100
+food,bread,-60
+salary,work,3000
+bonus,project,200
+food,apple,-200
